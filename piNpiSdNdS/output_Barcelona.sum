@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Barcelona
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 8937
+
+Total number of SNPs: 68926
+
+  - Biallelic: 68631
+  - Triallelic: 295
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.102373 [-0.112939; -0.091795]
+(Fit calculated in 7760 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: 0.0438018 [0.031546; 0.055699]
+(Fit calculated in 7760 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0140832 [0.013736; 0.014444]
+Average piN in focal species: 0.00215768 [0.002093; 0.002225]
+Average piN / average piS: 0.15321 [0.148992; 0.15765]
+(piS and piN calculated in 8876 contigs of average length 175)
+
+dN/dS ratio:
+
+Average dS: 0.0643572 [0.063558; 0.065129]
+Average dN: 0.00946254 [0.009266; 0.009663]
+Average dN/dS: 0.147032 [0.143897; 0.150284]
+(375 contigs with dS > 0.153314 has been discarded)
+
+Alpha:
+
+NI: 1.02799 => alpha: -0.0279867 [-0.046146;0.001421] (all SNPs)
+NI0.2: 0.983277 => alpha0.2: 0.0167228 [0.000955;0.046977] (allele freq > 0.2)
+(MK-analysis performed in 8562 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WC09): 0.00428665
+H(Merged_ULA_162001_P01_WC10): 0.00531556
+H(Merged_ULA_162001_P01_WC11): 0.00486311
+H(Merged_ULA_162001_P01_WC12): 0.00422246
+
+

@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Brouck
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9087
+
+Total number of SNPs: 83680
+
+  - Biallelic: 83201
+  - Triallelic: 478
+  - Quadriallelic: 1
+
+Fit:
+
+Average Fit: -0.172496 [-0.182546; -0.162156]
+(Fit calculated in 8124 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0359886 [-0.046586; -0.024948]
+(Fit calculated in 8124 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0158399 [0.015469; 0.016221]
+Average piN in focal species: 0.0023602 [0.002293; 0.002428]
+Average piN / average piS: 0.149004 [0.145002; 0.153075]
+(piS and piN calculated in 8986 contigs of average length 204)
+
+dN/dS ratio:
+
+Average dS: 0.0705342 [0.069777; 0.071319]
+Average dN: 0.0103167 [0.010108; 0.010524]
+Average dN/dS: 0.146265 [0.143215; 0.149367]
+(330 contigs with dS > 0.153884 has been discarded)
+
+Alpha:
+
+NI: 1.00504 => alpha: -0.00503996 [-0.020526;0.022374] (all SNPs)
+NI0.2: 0.94413 => alpha0.2: 0.0558704 [0.04027;0.080971] (allele freq > 0.2)
+(MK-analysis performed in 8757 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WA01): 0.00559944
+H(Merged_ULA_162001_P01_WA02): 0.00558056
+H(Merged_ULA_162001_P01_WA03): 0.00554185
+H(Merged_ULA_162001_P01_WA04): 0.00550963
+
+

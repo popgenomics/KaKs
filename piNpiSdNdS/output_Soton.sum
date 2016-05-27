@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Soton
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9208
+
+Total number of SNPs: 69171
+
+  - Biallelic: 68928
+  - Triallelic: 243
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.206266 [-0.21607; -0.1963]
+(Fit calculated in 7671 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0684096 [-0.081058; -0.055662]
+(Fit calculated in 7671 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0121949 [0.011869; 0.012524]
+Average piN in focal species: 0.00180722 [0.00175; 0.001865]
+Average piN / average piS: 0.148194 [0.14401; 0.152536]
+(piS and piN calculated in 9164 contigs of average length 221)
+
+dN/dS ratio:
+
+Average dS: 0.0750621 [0.074257; 0.075867]
+Average dN: 0.0107862 [0.010577; 0.010993]
+Average dN/dS: 0.143697 [0.140778; 0.146679]
+(335 contigs with dS > 0.160778 has been discarded)
+
+Alpha:
+
+NI: 0.995512 => alpha: 0.00448825 [-0.013734;0.028895] (all SNPs)
+NI0.2: 0.974844 => alpha0.2: 0.0251556 [0.006396;0.048458] (allele freq > 0.2)
+(MK-analysis performed in 8873 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WC01): 0.00442121
+H(Merged_ULA_162001_P01_WC02): 0.0043519
+H(Merged_ULA_162001_P01_WC03): 0.00393589
+H(Merged_ULA_162001_P01_WC04): 0.00483129
+
+

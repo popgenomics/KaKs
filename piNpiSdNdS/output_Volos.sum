@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Volos
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9090
+
+Total number of SNPs: 92439
+
+  - Biallelic: 91837
+  - Triallelic: 602
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.190917 [-0.200309; -0.181352]
+(Fit calculated in 8315 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0423441 [-0.052551; -0.032097]
+(Fit calculated in 8315 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0170363 [0.016641; 0.017435]
+Average piN in focal species: 0.00255106 [0.002476; 0.002627]
+Average piN / average piS: 0.149743 [0.145789; 0.153711]
+(piS and piN calculated in 9025 contigs of average length 200)
+
+dN/dS ratio:
+
+Average dS: 0.0677792 [0.067014; 0.068556]
+Average dN: 0.00985119 [0.009654; 0.010048]
+Average dN/dS: 0.145342 [0.142325; 0.14837]
+(348 contigs with dS > 0.151302 has been discarded)
+
+Alpha:
+
+NI: 1.02093 => alpha: -0.0209301 [-0.039587;0.004606] (all SNPs)
+NI0.2: 0.95128 => alpha0.2: 0.0487196 [0.03282;0.074448] (allele freq > 0.2)
+(MK-analysis performed in 8742 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WB05): 0.00576913
+H(Merged_ULA_162001_P01_WB06): 0.00599469
+H(Merged_ULA_162001_P01_WB07): 0.00619254
+H(Merged_ULA_162001_P01_WB08): 0.0060725
+
+

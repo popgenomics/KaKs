@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Antalya
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9042
+
+Total number of SNPs: 109212
+
+  - Biallelic: 108300
+  - Triallelic: 911
+  - Quadriallelic: 1
+
+Fit:
+
+Average Fit: -0.13693 [-0.144439; -0.129119]
+(Fit calculated in 8424 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: 0.0206545 [0.011599; 0.029549]
+(Fit calculated in 8424 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0187423 [0.018333; 0.019161]
+Average piN in focal species: 0.00279444 [0.002716; 0.002875]
+Average piN / average piS: 0.149097 [0.145212; 0.153009]
+(piS and piN calculated in 9012 contigs of average length 205)
+
+dN/dS ratio:
+
+Average dS: 0.0651283 [0.064372; 0.065853]
+Average dN: 0.00947623 [0.009291; 0.009664]
+Average dN/dS: 0.145501 [0.142498; 0.148624]
+(365 contigs with dS > 0.148584 has been discarded)
+
+Alpha:
+
+NI: 0.950836 => alpha: 0.049164 [0.015377;0.062461] (all SNPs)
+NI0.2: 0.899513 => alpha0.2: 0.100487 [0.086808;0.126846] (allele freq > 0.2)
+(MK-analysis performed in 8677 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WB09): 0.00613486
+H(Merged_ULA_162001_P01_WB10): 0.00670131
+H(Merged_ULA_162001_P01_WB11): 0.00623707
+H(Merged_ULA_162001_P01_WB12): 0.00599438
+
+

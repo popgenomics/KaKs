@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Paris
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9088
+
+Total number of SNPs: 76349
+
+  - Biallelic: 76009
+  - Triallelic: 340
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.140577 [-0.150924; -0.130253]
+(Fit calculated in 7948 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: 0.00719668 [-0.00471; 0.018964]
+(Fit calculated in 7948 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0145625 [0.014211; 0.014931]
+Average piN in focal species: 0.00217691 [0.002113; 0.002243]
+Average piN / average piS: 0.149488 [0.145309; 0.153726]
+(piS and piN calculated in 9008 contigs of average length 200)
+
+dN/dS ratio:
+
+Average dS: 0.0703426 [0.069546; 0.071134]
+Average dN: 0.0102405 [0.010041; 0.010444]
+Average dN/dS: 0.14558 [0.142534; 0.148653]
+(362 contigs with dS > 0.156138 has been discarded)
+
+Alpha:
+
+NI: 1.00836 => alpha: -0.00836284 [-0.026394;0.018421] (all SNPs)
+NI0.2: 0.955261 => alpha0.2: 0.0447387 [0.027223;0.069996] (allele freq > 0.2)
+(MK-analysis performed in 8726 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WD01): 0.0049987
+H(Merged_ULA_162001_P01_WD02): 0.00491755
+H(Merged_ULA_162001_P01_WD03): 0.00503549
+H(Merged_ULA_162001_P01_WD04): 0.00468502
+
+
