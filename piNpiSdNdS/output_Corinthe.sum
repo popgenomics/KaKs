@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Corinthe
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 8701
+
+Total number of SNPs: 78833
+
+  - Biallelic: 78317
+  - Triallelic: 515
+  - Quadriallelic: 1
+
+Fit:
+
+Average Fit: -0.216265 [-0.224964; -0.207361]
+(Fit calculated in 7836 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0478164 [-0.056964; -0.038378]
+(Fit calculated in 7836 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0180201 [0.017605; 0.018444]
+Average piN in focal species: 0.00267748 [0.002603; 0.002751]
+Average piN / average piS: 0.148583 [0.144564; 0.152709]
+(piS and piN calculated in 8647 contigs of average length 170)
+
+dN/dS ratio:
+
+Average dS: 0.064439 [0.063582; 0.065296]
+Average dN: 0.00948272 [0.009285; 0.009682]
+Average dN/dS: 0.147158 [0.143952; 0.150383]
+(381 contigs with dS > 0.157141 has been discarded)
+
+Alpha:
+
+NI: 1.02084 => alpha: -0.0208406 [-0.038058;0.00822] (all SNPs)
+NI0.2: 0.904947 => alpha0.2: 0.0950526 [0.079296;0.121306] (allele freq > 0.2)
+(MK-analysis performed in 8320 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WB01): 0.0056838
+H(Merged_ULA_162001_P01_WB02): 0.00648477
+H(Merged_ULA_162001_P01_WB03): 0.00635948
+H(Merged_ULA_162001_P01_WB04): 0.00637429
+
+

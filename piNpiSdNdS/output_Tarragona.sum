@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Tarragona
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9171
+
+Total number of SNPs: 80271
+
+  - Biallelic: 79896
+  - Triallelic: 375
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.162166 [-0.171884; -0.151927]
+(Fit calculated in 8092 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0235718 [-0.035504; -0.011262]
+(Fit calculated in 8092 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0141565 [0.013804; 0.014512]
+Average piN in focal species: 0.00208164 [0.00202; 0.002143]
+Average piN / average piS: 0.147045 [0.143115; 0.151078]
+(piS and piN calculated in 9127 contigs of average length 226)
+
+dN/dS ratio:
+
+Average dS: 0.0746201 [0.073832; 0.075425]
+Average dN: 0.0107547 [0.010545; 0.010961]
+Average dN/dS: 0.144126 [0.141198; 0.147056]
+(354 contigs with dS > 0.16043 has been discarded)
+
+Alpha:
+
+NI: -1.00408 => alpha: 2.00408 [-0.00964;2.00475] (all SNPs)
+NI0.2: 0.95591 => alpha0.2: 0.04409 [0.026333;0.067954] (allele freq > 0.2)
+(MK-analysis performed in 8817 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WA09): 0.00481734
+H(Merged_ULA_162001_P01_WA10): 0.00486623
+H(Merged_ULA_162001_P01_WA11): 0.00505881
+H(Merged_ULA_162001_P01_WA12): 0.00481639
+
+

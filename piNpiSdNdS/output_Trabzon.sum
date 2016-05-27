@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Trabzon
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 8314
+
+Total number of SNPs: 53669
+
+  - Biallelic: 53421
+  - Triallelic: 247
+  - Quadriallelic: 1
+
+Fit:
+
+Average Fit: -0.166263 [-0.177643; -0.15506]
+(Fit calculated in 6943 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: 0.00133176 [-0.012354; 0.01485]
+(Fit calculated in 6943 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.014199 [0.013802; 0.014603]
+Average piN in focal species: 0.00217025 [0.002096; 0.002244]
+Average piN / average piS: 0.152845 [0.147923; 0.157847]
+(piS and piN calculated in 8210 contigs of average length 152)
+
+dN/dS ratio:
+
+Average dS: 0.064466 [0.063568; 0.065379]
+Average dN: 0.00957527 [0.009365; 0.009786]
+Average dN/dS: 0.148532 [0.145097; 0.152015]
+(386 contigs with dS > 0.164661 has been discarded)
+
+Alpha:
+
+NI: 1.02706 => alpha: -0.0270582 [-0.046723;0.004651] (all SNPs)
+NI0.2: 0.951148 => alpha0.2: 0.0488525 [0.02949;0.077936] (allele freq > 0.2)
+(MK-analysis performed in 7928 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WA05): 0.00492908
+H(Merged_ULA_162001_P01_WA06): 0.00493245
+H(Merged_ULA_162001_P01_WA07): 0.00490932
+H(Merged_ULA_162001_P01_WA08): 0.00433811
+
+

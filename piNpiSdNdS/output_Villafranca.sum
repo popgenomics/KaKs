@@ -1,0 +1,54 @@
+################################################################################
+#                              Biological Summary                              #
+################################################################################
+
+Selected ingroup species: Villafranca
+
+Number of analyzed individual: 4 (from 1 population(s))
+
+Total number of contig used for sequence analysis: 9143
+
+Total number of SNPs: 72018
+
+  - Biallelic: 71697
+  - Triallelic: 321
+  - Quadriallelic: 0
+
+Fit:
+
+Average Fit: -0.185558 [-0.195567; -0.175301]
+(Fit calculated in 7867 contigs)
+
+Weir & Cockerham Fit (Evolution 1984):
+
+Average Weir & Cockerham Fit: -0.0408592 [-0.052929; -0.028614]
+(Fit calculated in 7867 contigs)
+
+piN/piS ratio:
+
+Average piS in focal species: 0.0129725 [0.012637; 0.013313]
+Average piN in focal species: 0.00195324 [0.001894; 0.002014]
+Average piN / average piS: 0.150568 [0.14637; 0.154731]
+(piS and piN calculated in 9070 contigs of average length 214)
+
+dN/dS ratio:
+
+Average dS: 0.0737195 [0.072924; 0.074514]
+Average dN: 0.0106714 [0.010462; 0.010881]
+Average dN/dS: 0.144757 [0.141688; 0.147765]
+(352 contigs with dS > 0.160046 has been discarded)
+
+Alpha:
+
+NI: 1.01294 => alpha: -0.0129383 [-0.032551;0.011761] (all SNPs)
+NI0.2: 0.972623 => alpha0.2: 0.0273767 [0.008402;0.051615] (allele freq > 0.2)
+(MK-analysis performed in 8791 contigs)
+
+Individual heterozygosity:
+
+H(Merged_ULA_162001_P01_WC05): 0.00460673
+H(Merged_ULA_162001_P01_WC06): 0.00414273
+H(Merged_ULA_162001_P01_WC07): 0.00495984
+H(Merged_ULA_162001_P01_WC08): 0.00462965
+
+
